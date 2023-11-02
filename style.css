@@ -239,3 +239,12 @@ nav ul li a:hover::after{
     background: #00a1a1;
 }
 /* Contacts */
+.contact-left{
+    flex-basis: 35%;
+}
+.contact-left p{
+    margin-top: 30px;
+}
+.contact-right{
+    flex-basis: 60%;
+}
