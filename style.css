@@ -276,7 +276,7 @@ form input, form textarea{
     color: #00a1a1;
     transform: translateY(-5px);
 }
-btn.btn2{
+.btn.btn2{
     display: inline-block;
     background: #00a1a1;
 }
