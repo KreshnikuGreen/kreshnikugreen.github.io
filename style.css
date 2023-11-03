@@ -239,6 +239,10 @@ nav ul li a:hover::after{
     background: #00a1a1;
 }
 /* Contacts */
+.btn.btn2{
+    display: inline-block;
+    background: #00a1a1;
+}
 .contact-left{
     flex-basis: 35%;
 }
@@ -281,8 +285,4 @@ form .btn2{
 .social-icons a:hover{
     color: #00a1a1;
     transform: translateY(-5px);
-}
-.btn.btn2{
-    display: inline-block;
-    background: #00a1a1;
 }
